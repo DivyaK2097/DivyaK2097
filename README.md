@@ -1,7 +1,9 @@
 ### 👋 Hi, I’m Divya
 - 👩‍💻 Software Engineer sharing about my learnings in techs
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript, ReactJS
+- 👀 Interested in Web Development
+- 🌱 Currently learning JavaScript, ReactJS
+
+![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivyaK2097&show_icons=true&theme=radical)
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
