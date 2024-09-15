@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @DivyaK2097
+👋 Hi, I’m Divya
+👩‍💻 Software Engineer sharing about my learnings in techs
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 <!---
