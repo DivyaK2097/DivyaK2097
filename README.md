@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Divya
 # 💫 About Me:
-- 👩‍💻 Software Engineer <br>- 👀 Interested in Web Development<br>- 🌱 Currently learning JavaScript, ReactJS
+- 👩‍💻 Software Engineer <br>- 👀 Interested in Web Development<br>- 🌱 Currently learning JavaScript, ReactJS, Selenium
 
 
 # 💻 Tech Stack:
